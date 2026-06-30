@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manvith Shivaram Bangera</h1>
-<h3 align="center">Electronics & Communication Engineering Student | FPGA | RISC-V | Embedded Systems | VLSI</h3>
+
+<h3 align="center">
+Electronics & Communication Engineering Student | FPGA | RISC-V | Embedded Systems | VLSI
+</h3>
 
 <p align="center">
-  Passionate about designing efficient hardware systems, computer architecture, digital design, and embedded systems.
+Passionate about designing efficient hardware systems, computer architecture, digital design, and embedded systems.
 </p>
 
 ---
@@ -10,8 +13,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 Final Year Electronics & Communication Engineering Student
-- 🔭 Currently working on **Dual-Channel DMA Controller for a RISC-V SoC**
-- 🌱 Learning **Advanced Computer Architecture, AXI4 Protocol, FPGA Design and Embedded Systems**
+- 🔭 Currently working on a Dual-Channel DMA Controller for a RISC-V SoC
+- 🌱 Learning Advanced Computer Architecture, AXI4 Protocol, FPGA Design, and Embedded Systems
 - 💡 Interested in
   - FPGA Design
   - RISC-V Processors
@@ -19,19 +22,17 @@
   - Digital IC Design
   - VLSI
   - Embedded Systems
-- 📫 Reach me at **manvithsjokatte@gmail.com**
+- 📫 Email: manvithsjokatte@gmail.com
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=c" />
 </p>
 
-### Hardware
+### Hardware & Tools
 
 - Verilog HDL
 - Vivado
@@ -47,24 +48,24 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 Dual-Channel DMA Controller for RISC-V SoC
+### Dual-Channel DMA Controller for RISC-V SoC
 
 - Memory-to-memory DMA
-- Dual independent channels
-- Single & Burst Transfer Modes
+- Dual independent DMA channels
+- Single and Burst Transfer Modes
 - Round Robin Arbitration
 - AXI4-Lite Interface
 - Verilog HDL
 - Vivado Simulation
 
 Repository:
-👉 **Dual-Channel-DMA-Controller-RISCV-SoC**
+👉 Dual-Channel-DMA-Controller-RISCV-SoC
 
 ---
 
-### 🔹 Analog Circuit Design using LTspice
+### Analog Circuit Design using LTspice
 
-Includes simulations of
+Includes simulations of:
 
 - Differential Amplifiers
 - Current Mirrors
@@ -72,7 +73,7 @@ Includes simulations of
 - Basic Analog Building Blocks
 
 Repository:
-👉 **LTspice-Analog-Projects**
+👉 LTspice-Analog-Projects
 
 ---
 
@@ -82,40 +83,14 @@ Repository:
 - FPGA Design
 - Embedded Systems
 - Digital Design
-- VLSI
 - RTL Design
+- VLSI
 - ASIC Design
 - SoC Design
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=manvithsbangera&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvithsbangera&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=manvithsbangera&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 🤝 Connect with Me
 
-- 📧 Email: **manvithsjokatte@gmail.com**
+- 📧 Email: manvithsjokatte@gmail.com
 - GitHub: https://github.com/manvithsbangera
-
----
-
-⭐ Thanks for visiting my profile!
